@@ -167,12 +167,8 @@
                 <div class="item-info">
                     
                 </div>
-            </div>
-            <div class="catalog-item">
-                <img src="images/10.png" alt="Item 2">
-                <div class="item-info">
-                    
-                </div>
+           
+            
             </div>
             <!-- Repeat the above structure for other catalog items -->
         </div>
