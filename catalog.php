@@ -155,18 +155,7 @@
                 <div class="item-info">
                     
                 </div>
-            </div>
-            <div class="catalog-item">
-                <img src="images/8.png" alt="Item 2">
-                <div class="item-info">
-                    
-                </div>
-            </div>
-            <div class="catalog-item">
-                <img src="images/9.png" alt="Item 2">
-                <div class="item-info">
-                    
-                </div>
+           
            
             
             </div>
